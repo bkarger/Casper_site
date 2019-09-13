@@ -1,0 +1,71 @@
+baseurl         = "https://henaolab.org"
+theme = "hugo-casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Henao-Tamayo Lab"
+  subtitle    = "Colorado State University"
+  copyright   = "© 2018"
+
+  cover       = "img/blog-cover.jpg"
+  description = ""
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = ""
+  linkedinName = ""
+  mediumName = ""
+
+  logo = ""
+  orgName = "CSU"
+  orgWebsite = "https://www.colostate.edu/"
+  orgDescription = "University Website"
+
+  showSupport = true
+
+  author = "BK"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Fort Collins, CO"
+  authorWebsite = ""
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Go"
+  url = "/tags/golang/"
+  weight = 100
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
+
+[[menu.main]]
+  name = "CSU Site"
+  url = "https://www.colostate.edu/"
+  weight = 95
+
+[[menu.main]]
+  name = "About"
+  url = "/about_us/"
+  weight = 90

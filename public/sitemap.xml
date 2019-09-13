@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mycobacterium-tuberculosis/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/current-experiments/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/employees/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/immunology/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/outline/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/the_lab/</loc>
+    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
