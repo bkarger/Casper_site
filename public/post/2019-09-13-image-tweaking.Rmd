@@ -1,0 +1,13 @@
+---
+title: 2019-09-13-image-tweaking
+author: BK
+date: '2019-09-20'
+slug: image-tweaking'
+hidden: false
+image: /img/MRLNoPicuture-300x300.png
+categories:
+  - The_lab
+tags: 
+  -Immunology
+---
+Post!

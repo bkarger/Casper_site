@@ -1,8 +1,8 @@
-baseurl         = "https://henaolab.org"
+baseurl         = "https://henaolabcoloradostateuniversity.org"
 theme = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
-paginate        = 6
+paginate        = 2
 #SectionPagesMenu = "main"
 canonifyurls    = true
 
@@ -11,7 +11,7 @@ canonifyurls    = true
   subtitle    = "Colorado State University"
   copyright   = "© 2018"
 
-  cover       = "img/jai-banner.jpg"
+  cover       = "img/Lab_image.png"
   description = ""
   metaDescription = ""
   googleAnalytics = ""
@@ -29,7 +29,7 @@ canonifyurls    = true
   orgWebsite = "https://www.colostate.edu/"
   orgDescription = "University Website"
 
-  showSupport = true
+  showSupport = false
 
   author = "BK"
   authorAvatar = ""
