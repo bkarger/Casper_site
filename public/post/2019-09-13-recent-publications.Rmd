@@ -9,6 +9,6 @@ categories:
 tags:
   - Immunology
 ---
-Can insert links along with screenshots of abstracts.   Obviously we need some publishing to occur. 
+Can insert links along with screenshots of abstracts. 
   
   ![](/post/2019-09-13-recent-publications_files/test_image.jpg)

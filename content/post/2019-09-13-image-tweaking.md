@@ -7,5 +7,6 @@ categories:
   - Outline
 tags:
   - Immunology
+cover: "img/jai-banner.jpg"
 ---
-sadfasdf  asdfasdfa
+![Pretty Flower](/post/2019-09-13-image-tweaking_files/test_image.jpg)
