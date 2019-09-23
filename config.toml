@@ -64,8 +64,3 @@ canonifyurls    = true
   name = "CSU Site"
   url = "https://www.colostate.edu/"
   weight = 95
-
-[[menu.main]]
-  name = "About"
-  url = "/about_us/"
-  weight = 90
