@@ -4,21 +4,31 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/immunology/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <loc>/post/members/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/the_lab/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/immunology/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,12 +43,7 @@
   </url>
   
   <url>
-    <loc>/categories/the_lab/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mycobacterium-tuberculosis/</loc>
+    <loc>/tags/_mycobacterium-tuberculosis_/</loc>
     <lastmod>2019-09-04T21:13:14-05:00</lastmod>
   </url>
   
@@ -49,11 +54,6 @@
   
   <url>
     <loc>/post/current-experiments/</loc>
-    <lastmod>2019-09-04T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/employees/</loc>
     <lastmod>2019-09-04T21:13:14-05:00</lastmod>
   </url>
   

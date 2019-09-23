@@ -6,10 +6,24 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Members</title>
+      <link>/post/members/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/members/</guid>
+      <description>The LabPost Doctoral Fellow: Dr. Taru Dutt
+PhD Student: Amy Fox
+Lab Manager: Burton Karger
+Research Scientist: Dr. Andres Obregon
+PI : Dr. Marcela Henao-Tamayo
+</description>
+    </item>
     
     <item>
       <title>Recent_Publications</title>
@@ -26,26 +40,10 @@
       <pubDate>Wed, 04 Sep 2019 21:13:14 -0500</pubDate>
       
       <guid>/post/current-experiments/</guid>
-      <description>This is a list of our current experimentsNon-mycobacterium tuberculosis pilot study
-Comparing effects on immune system when BCG vaccinated mice are exposed to M. avium.
-Freever V. IV
-Comparing In vitro grown bacilli and In vivo grown bacilli effect on mice.
-Exp3
-</description>
-    </item>
-    
-    <item>
-      <title>Employees</title>
-      <link>/post/employees/</link>
-      <pubDate>Wed, 04 Sep 2019 21:13:14 -0500</pubDate>
-      
-      <guid>/post/employees/</guid>
-      <description>The LabPost Doctoral Fellow: DR. TARU DUTT
-PhD Student: AMY FOX
-Lab Manager: BURTON KARGER
-PI : DR. MARCELA HENAO-TAMAYO
-Research Scientist: DR. ANDRES OBREGON
-</description>
+      <description>Non-mycobacterium tuberculosis pilot study
+Comparing effects on immune system when BCG vaccinated mice are exposed to M. avium.
+Freever V. IV
+Comparing In vitro grown bacilli and In vivo grown bacilli effect on mice.BAA Contract!</description>
     </item>
     
   </channel>

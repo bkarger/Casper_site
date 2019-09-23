@@ -1,0 +1,14 @@
+---
+title: "Members"
+author: "Burton Karger"
+date: 2019-09-23
+categories: ["The_lab"]
+image: /img/mock_group.jpg
+---
+
+## The Lab
+> Post Doctoral Fellow: Dr. Taru Dutt  
+> PhD Student: Amy Fox  
+> Lab Manager: Burton Karger   
+> Research Scientist: Dr. Andres Obregon  
+> PI : Dr. Marcela Henao-Tamayo  

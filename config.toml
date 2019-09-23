@@ -8,10 +8,10 @@ canonifyurls    = true
 
 [params]
   title       = "Henao-Tamayo Lab"
-  subtitle    = "Colorado State University"
+  subtitle    = "Mycobacterial Research Laboratories at Colorado State University"
   copyright   = "© 2018"
 
-  cover       = "img/Lab_image.png"
+  cover       = "img/jai-banner.jpg"
   description = ""
   metaDescription = ""
   googleAnalytics = ""
@@ -20,7 +20,7 @@ canonifyurls    = true
 
   twitterName = ""
   fbName = ""
-  githubName = ""
+  githubName = "https://github.com/bkarger"
   linkedinName = ""
   mediumName = ""
 
@@ -32,7 +32,7 @@ canonifyurls    = true
   showSupport = false
 
   author = "BK"
-  authorAvatar = ""
+  authorAvatar = "img/author_avatar.jpg"
   authorLocation = "Fort Collins, CO"
   authorWebsite = ""
   authorDescription = ""
@@ -51,16 +51,11 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
-  weight = 100
-
-[[menu.main]]
   name = "Categories"
   url = "/categories/"
   weight = 99
 
 [[menu.main]]
-  name = "CSU Site"
+  name = "Colorado State University Website"
   url = "https://www.colostate.edu/"
   weight = 95
