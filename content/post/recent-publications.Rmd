@@ -1,0 +1,26 @@
+---
+title: Recent Publications
+author: BK
+date: '2019-09-24'
+slug: recent-publications
+image: /img/publications.jpg
+categories:
+  - The_lab
+---
+# Online Literature   
+  
+>Dr. Marcela Henao-Tamayo (PI)  
+  
+[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Henao-Tamayo%20M%5BAuthor%5D&cauthor=true&cauthor_uid=22873951)  
+  
+>Dr. Andres Obregon (Research Scientist)  
+  
+[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Obregon-Henao+A%5BAuthor%5D)  
+  
+>Dr. Taru Dutt (Post-Doc)  
+  
+[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Dutt%20T%5BAuthor%5D)  
+  
+>Amy Fox (PhD Student)  
+  
+[link]()

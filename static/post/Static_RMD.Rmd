@@ -1,9 +1,0 @@
----
-title: "Static_RMD"
-date: '09-23-2019'
-categories: ["The_lab"]
-image: /img/CSU-Logo.png
-
----
-
-asdfadsfa

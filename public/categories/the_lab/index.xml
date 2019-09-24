@@ -6,10 +6,41 @@
     <description>Recent content in The_lab on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/the_lab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact Information</title>
+      <link>/post/contact-information/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/contact-information/</guid>
+      <description>Email AddressesMarcela.Henao_Tamayo@ColoState.EDU
+Andres.Obregon@ColoState.EDU
+taru.Dutt@colostate.edu
+Amy.Fox@colostate.edu
+Burton.Karger@colostate.edu
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/post/recent-publications/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/recent-publications/</guid>
+      <description>Online LiteratureDr. Marcela Henao-Tamayo (PI)
+PubMed
+Dr. Andres Obregon (Research Scientist)
+PubMed
+Dr. Taru Dutt (Post-Doc)
+PubMed
+Amy Fox (PhD Student)
+link
+</description>
+    </item>
     
     <item>
       <title>Members</title>
@@ -17,21 +48,10 @@
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/members/</guid>
-      <description>The LabPost Doctoral Fellow: Dr. Taru Dutt
-PhD Student: Amy Fox
-Lab Manager: Burton Karger
-Research Scientist: Dr. Andres Obregon
-PI : Dr. Marcela Henao-Tamayo
-</description>
-    </item>
-    
-    <item>
-      <title>Recent_Publications</title>
-      <link>/post/recent-publications/</link>
-      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/recent-publications/</guid>
-      <description>Can insert links along with screenshots of abstracts.</description>
+      <description>The LabPI : Dr. Marcela Henao-Tamayo
+Research Scientist: Dr. Andres Obregon
+Post Doctoral Fellow: Dr. Taru Dutt
+Holds a Ph.D. degree and has 5 years of research experience and 2 years of teaching experience. Ms. Dutt has been working in immunology field since 2012, first as a research associate in Lady Hardinge Medical College where she worked on role of Th1 and Th2 cytokines ratio in infertility under Dr.</description>
     </item>
     
   </channel>

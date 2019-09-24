@@ -11,7 +11,7 @@ canonifyurls    = true
   subtitle    = "Mycobacterial Research Laboratories at Colorado State University"
   copyright   = "© 2018"
 
-  cover       = "img/jai-banner.jpg"
+  cover       = "img/banner.png"
   description = ""
   metaDescription = ""
   googleAnalytics = ""
