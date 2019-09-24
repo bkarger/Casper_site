@@ -2,8 +2,9 @@
 title: "Current Experiments"  
 author: "Burton Karger"  
 date: 2019-09-04  
-categories: ["Projects"]  
-tags: ["Immunology", "_Mycobacterium tuberculosis_"]  
+menu:
+  main:
+    weight: 109 
 image: /img/mouse_exp.jpg  
 output: html_document  
 ---

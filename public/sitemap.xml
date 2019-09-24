@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/contact-information/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
@@ -28,11 +23,6 @@
   </url>
   
   <url>
-    <loc>/categories/the_lab/</loc>
-    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/members/</loc>
     <lastmod>2019-09-23T00:00:00+00:00</lastmod>
   </url>
@@ -43,33 +33,21 @@
   </url>
   
   <url>
-    <loc>/tags/_mycobacterium-tuberculosis_/</loc>
-    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/current-experiments/</loc>
-    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/immunology/</loc>
-    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/projects/</loc>
-    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

@@ -2,7 +2,9 @@
 title: "Contact Information"
 author: "Burton Karger"
 date: 2019-09-24
-categories: ["The_lab"]
+menu:
+  main:
+    weight: 106
 image: /img/contact_us.jpg
 output: html_document
 ---

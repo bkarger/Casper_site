@@ -14,13 +14,14 @@ canonifyurls    = true
   cover       = "img/banner.png"
   description = ""
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-148659710-1"
+  ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   customCSS = []
   RSSLink = ""
 
   twitterName = ""
   fbName = ""
-  githubName = "https://github.com/bkarger"
+  githubName = "bkarger"
   linkedinName = ""
   mediumName = ""
 
@@ -49,11 +50,6 @@ canonifyurls    = true
   name = "Home"
   url = "/"
   weight = 200
-
-[[menu.main]]
-  name = "Categories"
-  url = "/categories/"
-  weight = 99
 
 [[menu.main]]
   name = "Colorado State University Website"

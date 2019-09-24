@@ -2,7 +2,9 @@
 title: "Members"
 author: "Burton Karger"
 date: 2019-09-23
-categories: ["The_lab"]
+menu:
+  main:
+    weight: 114
 image: /img/mock_group.jpg
 output: html_document
 ---
