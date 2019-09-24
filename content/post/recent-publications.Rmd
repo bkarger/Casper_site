@@ -19,7 +19,9 @@ image: /img/publications.jpg
   
 >Dr. Taru Dutt (Post-Doc)  
   
-[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Dutt%20T%5BAuthor%5D)  
+[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=taru.+s.+dutt)  
+[BioCore](https://www.biocoreopen.org/ijnme/Activation-of-T-and-B-lymphocytes-Induces.php)  
+[Elsevier](https://www.evise.com/co-author/?dgcid=invite_email_coauthoroutreach01652478#/IMLET/submission/IMLET_2019_390)
   
 >Amy Fox (PhD Student)  
   

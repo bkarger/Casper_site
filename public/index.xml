@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Our laboratroy is apart of the Mycobacteria Research Labs at Colorado State University, Fort Collins CO. We are concerned with possible boosting strategies of the current vaccination provided for Mycobacterium tuberculosis, Bacillus Calmette–Guérin vaccine. As well as environmental effects on the host immune response to Mycobacterium tuberculosis infection due to envrionmental, or non-tuberculosis mycobacteria. Due to the complex nature of the bacillus we are constantly altering experimental approaches and methods.</description>
+    </item>
+    
+    <item>
       <title>Contact Information</title>
       <link>/post/contact-information/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
@@ -37,6 +46,8 @@ Burton.Karger@colostate.edu
 PubMed
 Dr. Taru Dutt (Post-Doc)
 PubMed
+BioCore
+Elsevier
 Amy Fox (PhD Student)
 link
 </description>
@@ -55,33 +66,15 @@ Burton.Karger@colostate.edu
     </item>
     
     <item>
-      <title>About us</title>
-      <link>/about/</link>
-      <pubDate>Wed, 04 Sep 2019 21:13:14 -0500</pubDate>
-      
-      <guid>/about/</guid>
-      <description>MTB Lab, CSU, Dr. Henao-Tamayo, etc.</description>
-    </item>
-    
-    <item>
       <title>Current Experiments</title>
       <link>/post/current-experiments/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/current-experiments/</guid>
-      <description>Non-mycobacterium tuberculosis pilot study
+      <description>Non-mycobacterium tuberculosis pilot study
 Comparing effects on immune system when BCG vaccinated mice are exposed to M. avium.
 Freever V. IV
-Comparing In vitro grown bacilli and In vivo adapted bacilli effect on mice.BAA Contract!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>About uscode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+Comparing In vitro grown Mycobacterium tuberculosis bacilli and In vivo adapted bacilli effect on mice.BAA Contract!NIH funded contract consisting of multiple institutional collaboration and countries.ESX5 boosting candidateCollaboration with Dr. Bill Jakobs located at Einstein School of Medicine, NY.</description>
     </item>
     
   </channel>
