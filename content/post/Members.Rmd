@@ -12,7 +12,9 @@ output: html_document
 # The Lab  
   
 > PI : Dr. Marcela Henao-Tamayo  
- 
+  
+Our laboratory is devoted to investigating the pathogenesis and immune response to _M. tuberculosis_, with a central interest in the nature of memory T cells induced by vaccines [including BCG].  Additionally, we have the unique ability to test how effective these T-cell subsets are against different clinical strains of tuberculosis. As the Director of the CSU Flow Cytometry Core facility, my laboratory has been implementing and developing new analytical tools for 21-color flow cytometry. We are currently using algorithms that automatically identify cell populations according to their marker expression profiles. These computational methods not only have the capacity to identify rare populations, but also to match cell populations across samples, and statistically compare features between different populations. These algorithms provide an unsupervised analysis, allowing an unbiased investigation of cytometry data.  In addition to flow cytometry, we are excited to begin single cell sequencing as well as metabolomic analysis of immune cells elicited by _M. tuberculosis_ and vaccines.  
+  
 > Research Scientist: Dr. Andres Obregon  
   
 > Post Doctoral Fellow: Dr. Taru Dutt  
