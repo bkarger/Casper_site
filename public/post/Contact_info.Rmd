@@ -1,5 +1,5 @@
 ---
-title: "Contact Information"
+title: "Contact Info"
 author: "Burton Karger"
 date: 2019-09-24
 menu:

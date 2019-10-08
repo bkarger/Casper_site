@@ -11,7 +11,7 @@ output: html_document
 
 1. **Non-mycobacterium tuberculosis pilot study**  
   + Comparing effects on immune system when BCG vaccinated mice are exposed to M. avium.  
-2. **Freever V. IV**  
+2. **Freezer V. IV**  
   + Comparing _In vitro_ grown _Mycobacterium tuberculosis_ bacilli and _In vivo_ adapted bacilli effect on mice. 
 3. **BAA Contract!**
   + NIH funded contract consisting of multiple institutional collaboration and countries. 
