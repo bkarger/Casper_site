@@ -5,7 +5,7 @@ disqusShortname = ""
 paginate        = 2
 #SectionPagesMenu = "main"
 canonifyurls    = true
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   title       = "Henao-Tamayo Lab"
@@ -16,7 +16,6 @@ canonifyurls    = true
   description = ""
   metaDescription = ""
   googleAnalytics = "UA-148659710-1"
-  ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   customCSS = []
   RSSLink = ""
 
