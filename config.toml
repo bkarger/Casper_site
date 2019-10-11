@@ -1,4 +1,4 @@
-baseurl         = "https://bkarger.github.io/Casper_site/"
+baseurl         = ""
 theme = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""

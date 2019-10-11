@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://bkarger.github.io/Casper_site/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bkarger.github.io/Casper_site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Us</title>
-      <link>https://bkarger.github.io/Casper_site/about/</link>
+      <link>/about/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bkarger.github.io/Casper_site/about/</guid>
+      <guid>/about/</guid>
       <description>Our laboratroy is apart of the Mycobacteria Research Labs at Colorado State University, Fort Collins CO. We are concerned with possible boosting strategies of the current vaccination provided for Mycobacterium tuberculosis, Bacillus Calmette–Guérin vaccine. As well as environmental effects on the host immune response to Mycobacterium tuberculosis infection due to envrionmental, or non-tuberculosis mycobacteria. Due to the complex nature of the bacillus we are constantly altering experimental approaches and methods.</description>
     </item>
     
     <item>
       <title>Contact Info</title>
-      <link>https://bkarger.github.io/Casper_site/post/contact-info/</link>
+      <link>/post/contact-info/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bkarger.github.io/Casper_site/post/contact-info/</guid>
+      <guid>/post/contact-info/</guid>
       <description>Email AddressesMarcela.Henao_Tamayo@ColoState.EDU
 Andres.Obregon@ColoState.EDU
 taru.Dutt@colostate.edu
@@ -36,10 +36,10 @@ Burton.Karger@colostate.edu
     
     <item>
       <title>Recent Publications</title>
-      <link>https://bkarger.github.io/Casper_site/post/recent-publications/</link>
+      <link>/post/recent-publications/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bkarger.github.io/Casper_site/post/recent-publications/</guid>
+      <guid>/post/recent-publications/</guid>
       <description>Online LiteratureDr. Marcela Henao-Tamayo (PI)
 PubMed
 Dr. Andres Obregon (Research Scientist)
@@ -55,10 +55,10 @@ Elsevier
     
     <item>
       <title>Members</title>
-      <link>https://bkarger.github.io/Casper_site/post/members/</link>
+      <link>/post/members/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bkarger.github.io/Casper_site/post/members/</guid>
+      <guid>/post/members/</guid>
       <description>The LabPI : Dr. Marcela Henao-Tamayo
 Research Scientist: Dr. Andres Obregon
 Post Doctoral Fellow: Dr. Taru Dutt
@@ -67,10 +67,10 @@ Elsevier
     
     <item>
       <title>Current Experiments</title>
-      <link>https://bkarger.github.io/Casper_site/post/current-experiments/</link>
+      <link>/post/current-experiments/</link>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bkarger.github.io/Casper_site/post/current-experiments/</guid>
+      <guid>/post/current-experiments/</guid>
       <description>Non-mycobacterium tuberculosis pilot study
 Comparing effects on immune system when BCG vaccinated mice are exposed to M. avium.
 Freezer V. IV
