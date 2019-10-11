@@ -1,10 +1,11 @@
-baseurl         = "https://henaolabcoloradostateuniversity.org"
+baseurl         = "https://bkarger.github.io/Casper_site/"
 theme = "hugo-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 2
 #SectionPagesMenu = "main"
 canonifyurls    = true
+
 
 [params]
   title       = "Henao-Tamayo Lab"
