@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact Info</title>
+      <link>/post/contact-info/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/contact-info/</guid>
+      <description>Email AddressesMarcela.Henao_Tamayo@ColoState.EDU
+Andres.Obregon@ColoState.EDU
+taru.Dutt@colostate.edu
+Amy.Fox@colostate.edu
+Burton.Karger@colostate.edu
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/post/recent-publications/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/recent-publications/</guid>
+      <description>Online LiteratureDr. Marcela Henao-Tamayo (PI)
+PubMed
+Dr. Andres Obregon (Research Scientist)
+PubMed
+Dr. Taru Dutt (Post-Doc)
+PubMed
+BioCore
+Elsevier
+Amy Fox (PhD Student)
+link
+</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>/post/members/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/members/</guid>
+      <description>The LabPI : Dr. Marcela Henao-Tamayo
+Research Scientist: Dr. Andres Obregon
+Post Doctoral Fellow: Dr. Taru Dutt
+Holds a Ph.D. degree and has 5 years of research experience and 2 years of teaching experience. Ms. Dutt has been working in immunology field since 2012, first as a research associate in Lady Hardinge Medical College where she worked on role of Th1 and Th2 cytokines ratio in infertility under Dr.</description>
+    </item>
+    
+    <item>
+      <title>Current Experiments</title>
+      <link>/post/current-experiments/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/current-experiments/</guid>
+      <description>Non-mycobacterium tuberculosis pilot study
+Comparing effects on immune system when BCG vaccinated mice are exposed to M. avium.
+Freezer V. IV
+Comparing In vitro grown Mycobacterium tuberculosis bacilli and In vivo adapted bacilli effect on mice.BAA Contract!NIH funded contract consisting of multiple institutional collaboration and countries.ESX5 boosting candidateCollaboration with Dr. Bill Jakobs located at Einstein School of Medicine, NY.</description>
+    </item>
+    
+  </channel>
+</rss>

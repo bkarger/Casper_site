@@ -1,0 +1,19 @@
+---
+title: "Current Experiments"  
+author: "Burton Karger"  
+date: 2019-09-04  
+menu:
+  main:
+    weight: 109 
+image: /img/mouse_exp.jpg  
+output: html_document  
+---
+
+1. **Non-mycobacterium tuberculosis pilot study**  
+  + Comparing effects on immune system when BCG vaccinated mice are exposed to M. avium.  
+2. **Freezer V. IV**  
+  + Comparing _In vitro_ grown _Mycobacterium tuberculosis_ bacilli and _In vivo_ adapted bacilli effect on mice. 
+3. **BAA Contract!**
+  + NIH funded contract consisting of multiple institutional collaboration and countries. 
+4. **ESX5 boosting candidate**
+  + Collaboration with Dr. Bill Jakobs located at Einstein School of Medicine, NY.

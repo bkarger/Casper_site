@@ -1,0 +1,21 @@
+---
+title: "Contact Info"
+author: "Burton Karger"
+date: 2019-09-24
+menu:
+  main:
+    weight: 106
+image: /img/contact_us.jpg
+output: html_document
+---
+# Email Addresses  
+  
+Marcela.Henao_Tamayo@ColoState.EDU
+  
+Andres.Obregon@ColoState.EDU  
+  
+taru.Dutt@colostate.edu  
+  
+Amy.Fox@colostate.edu  
+  
+Burton.Karger@colostate.edu

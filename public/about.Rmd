@@ -1,0 +1,10 @@
+---
+title: "About Us"  
+author: "Burton Karger"  
+date: 2019-09-24  
+menu:
+  main:
+    weight: 109 
+output: html_document  
+---
+Our laboratroy is apart of the Mycobacteria Research Labs at Colorado State University, Fort Collins CO. We are concerned with possible boosting strategies of the current vaccination provided for _Mycobacterium tuberculosis_, Bacillus Calmette–Guérin vaccine. As well as environmental effects on the host immune response to _Mycobacterium tuberculosis_ infection due to envrionmental, or non-tuberculosis mycobacteria. Due to the complex nature of the bacillus we are constantly altering experimental approaches and methods. Dr. Marcela Henao-Tamayo is an expert in Flow Cytometric analysis of host cells for immune profiling. Along with our research scientist, Dr. Andres Obregon-Henao, and post-doctoral fellow, Dr. Taru Dutt, we are robust laboratory for flow cytometric analysis of murine models response to mycobacterial immune responses. Our PhD. student, Amy Fox, is currently developing an R-based data analysis pipeline for processing flow cytometric data associated with any type of cytometer.  
