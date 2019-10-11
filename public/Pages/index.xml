@@ -1,81 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on </title>
-    <link>/pages/</link>
-    <description>Recent content in Pages on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About Us</title>
-      <link>/pages/about/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/about/</guid>
-      <description>Our laboratroy is apart of the Mycobacteria Research Labs at Colorado State University, Fort Collins CO. We are concerned with possible boosting strategies of the current vaccination provided for Mycobacterium tuberculosis, Bacillus Calmette–Guérin vaccine. As well as environmental effects on the host immune response to Mycobacterium tuberculosis infection due to envrionmental, or non-tuberculosis mycobacteria. Due to the complex nature of the bacillus we are constantly altering experimental approaches and methods.</description>
-    </item>
-    
-    <item>
-      <title>Contact Information</title>
-      <link>/pages/contact_info/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/contact_info/</guid>
-      <description>Email AddressesMarcela.Henao_Tamayo@ColoState.EDU
-Andres.Obregon@ColoState.EDU
-taru.Dutt@colostate.edu
-Amy.Fox@colostate.edu
-Burton.Karger@colostate.edu
-</description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>/pages/recent-publications/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/recent-publications/</guid>
-      <description>Online LiteratureDr. Marcela Henao-Tamayo (PI)
-PubMed
-Dr. Andres Obregon (Research Scientist)
-PubMed
-Dr. Taru Dutt (Post-Doc)
-PubMed
-BioCore
-Elsevier
-Amy Fox (PhD Student)
-link
-</description>
-    </item>
-    
-    <item>
-      <title>Members</title>
-      <link>/pages/members/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/members/</guid>
-      <description>The LabPI : Dr. Marcela Henao-Tamayo
-Research Scientist: Dr. Andres Obregon
-Post Doctoral Fellow: Dr. Taru Dutt
-Holds a Ph.D. degree and has 5 years of research experience and 2 years of teaching experience. Ms. Dutt has been working in immunology field since 2012, first as a research associate in Lady Hardinge Medical College where she worked on role of Th1 and Th2 cytokines ratio in infertility under Dr.</description>
-    </item>
-    
-    <item>
-      <title>Current Experiments</title>
-      <link>/pages/current_experiments/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/current_experiments/</guid>
-      <description>Non-mycobacterium tuberculosis pilot study
-Comparing effects on immune system when BCG vaccinated mice are exposed to M. avium.
-Freever V. IV
-Comparing In vitro grown Mycobacterium tuberculosis bacilli and In vivo adapted bacilli effect on mice.BAA Contract!NIH funded contract consisting of multiple institutional collaboration and countries.ESX5 boosting candidateCollaboration with Dr. Bill Jakobs located at Einstein School of Medicine, NY.</description>
-    </item>
-    
-  </channel>
-</rss>
