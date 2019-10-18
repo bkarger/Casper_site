@@ -9,10 +9,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   title       = "Henao-Tamayo Lab"
-  subtitle    = "Mycobacterial Research Laboratories at Colorado State University"
+  subtitle    = "Mycobacterial Research Laboratories | Colorado State University| Fort Collins, CO"
   copyright   = "© 2018"
 
-  cover       = "img/3_6_19_M4.png"
+  cover       = "img/banner.png"
   description = ""
   metaDescription = ""
   googleAnalytics = "UA-148659710-1"
@@ -41,7 +41,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "casper"
+  singleViewStyle = "caspertwo"
 
 [permalinks]
   post = "/post/:slug/"
